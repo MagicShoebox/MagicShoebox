@@ -10,6 +10,11 @@ I've been participating in [Advent of Code](https://adventofcode.com/) for fun, 
   - [2022](https://github.com/MagicShoebox/advent-of-code-2022) (Python)
   - [2023](https://github.com/MagicShoebox/advent-of-code-2023) (TypeScript)
   - [2024](https://github.com/MagicShoebox/advent-of-code-2024) (Rust)
+
+#### 🔎 Map Zoom Mod
+My partner and I sometimes play [Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together/). Unfortunately, the game's built-in map is tiny and hard to read, even at full zoom. Fortunately, the game uses [Lua](https://www.lua.org/) and has great mod support. Unfortunately, the only existing mod I found was buggy and outdated. So I [made my own](https://github.com/MagicShoebox/dont-starve-mods).
+#### 🧊 Tetris Cube Solver
+How hard could it be to assemble 12 pieces into a cube? After over a decade of trying, I resorted to NumPy. Read the full story and see [my solution](https://github.com/MagicShoebox/tetris-cube-solver).
 #### 📷 Computer Vision
 [Tiny Towns Scorer](https://github.com/MagicShoebox/vt-cs4664-tiny-towns-scorer) was made as part of an undergraduate capstone at Virginia Tech. In this group project, we developed a computer vision model to recognize tokens and their placement in the board game Tiny Towns.
 #### 🐱‍💻 Bitburner
